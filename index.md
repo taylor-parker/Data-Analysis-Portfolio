@@ -1,6 +1,6 @@
 ---
 layout: home
-title: [Your Name]'s Portfolio
+title: "[Your Name]'s Portfolio"
 ---
 
 # Welcome to My Data Portfolio! 🌟
