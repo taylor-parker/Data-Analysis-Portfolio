@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Taylor's Portfolio"
+title: "Home"
 ---
 
 # Welcome to My Data Portfolio! 🌟
